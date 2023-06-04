@@ -1,0 +1,7 @@
+name: Singular-v9.6.0-8bea7bb9.master
+env: release
+git_commit: 8bea7bb9
+git_branch: master
+version_name: 9.6.0
+version_code:1
+build_date: Wed, 13 Jan 2021 18:34:09 +0200
